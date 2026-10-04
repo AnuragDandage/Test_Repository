@@ -1,0 +1,4 @@
+This file will be added in the main branch with following commits including this :
+1. The CHANGES_TO_BE_COMMITED was a new file created
+2. The CHANGES_TO_BE_COMMITED.txt was the name of renamed file
+3.the changes were commited
